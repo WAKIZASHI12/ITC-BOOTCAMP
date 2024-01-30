@@ -1,4 +1,4 @@
-numbers = (1,2,3,4,5)
+numbers = (1,2,3,4,5,6)
 print(numbers[3:5])
 
 lol = [1,'hello',True,3.14,(1,2,3)]
