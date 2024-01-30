@@ -1,4 +1,4 @@
-"""
+
 name ="welcom"
 user ="user"
 a = name.upper()+' '+ user.lower()
@@ -37,7 +37,8 @@ if nub > 0:
     print("polohiti")
 else:
     print("ne polozhiti")
-"""
+
+    
 age = int(input('age'))
 if age >= 18:
     print('sovershenoletni')
