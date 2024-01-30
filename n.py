@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> 284be04 (domashka n.py)
+=======
+>>>>>>> 9b81a50 (domashka n.py)
 name ="welcom"
 user ="user"
 a = name.upper()+' '+ user.lower()
