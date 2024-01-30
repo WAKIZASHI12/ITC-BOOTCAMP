@@ -1,4 +1,3 @@
-"""
 numbers = (1,2,3,4,5)
 print(numbers[3:5])
 
@@ -47,9 +46,17 @@ a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
 for b in a:
     if b>5:
         print(b)
-"""
 
-spisok_1 = ('Lamborgini', 17, '4456', 2020, 'Paris', 'USA', 11, 2)
-spisok_2 = ('Ferrari', 17, 4456, 2021, 'Paris', 'UK', 777, 23)
-for i in spisok_1:
-    if str(i)isdigit()
+
+a = ('Lamborgini', 17, '4456', 2020, 'Paris', 'USA', 11, 23)
+numbers = []
+b = ('Ferrari', 17, 4456, 2021, 'Paris', 'UK', 777, 23)
+letters = []
+for i in a:
+    if str(i).isdigit():
+        numbers.append(int(i))
+print(numbers)
+for y in b:
+    if str(y).isalpha():
+        letters.append(y)
+print(letters)
