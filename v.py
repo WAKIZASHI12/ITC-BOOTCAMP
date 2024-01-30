@@ -1,4 +1,4 @@
-some = ("Bishkek", "Bakyt", 29, 32, "Alpha")
+some = ("Bish", "Bishkek", "Bakyt", 29, 32, "Alpha")
 
 letters = []
 numbers = []
