@@ -19,7 +19,7 @@ else:
 
 a = 19
 b = 100
-print(a/b)
+print((a/b)*100)
 
 
 a = 25
