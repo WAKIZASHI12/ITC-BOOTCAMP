@@ -43,7 +43,7 @@ exi2 = 21
 print("exi:",7*3)
 print("exi2:",21)
 
-exi3 = 7 + 3
+exi3 = 5 + 3
 exi4 = 10
-print("exi3:",7+3)
+print("exi3:",5+3)
 print("exi3:",10)
